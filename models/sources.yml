@@ -1,0 +1,7 @@
+sources:
+
+  - name: raw_data
+    schema: demo_schema_raw_data  
+    tables:
+      - name: orders
+      - name: customers
