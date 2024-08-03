@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,signup_date,_fivetran_deleted
+1,John,Doe,john.doe@example.com,2021-01-01,False
+2,Jane,Smith,jane.smith@example.com,2021-02-01,False
+3,Alice,Johnson,alice.johnson@example.com,2021-03-01,True
+4,Bob,Williams,bob.williams@example.com,2021-04-01,False
+5,Charlie,Brown,charlie.brown@example.com,2021-05-01,True
